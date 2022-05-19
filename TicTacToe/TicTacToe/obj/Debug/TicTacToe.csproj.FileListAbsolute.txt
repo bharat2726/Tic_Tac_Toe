@@ -1,0 +1,16 @@
+D:\CONESTOGA\PROG8010\Week 8\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\CONESTOGA\PROG8010\Week 8\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+D:\CONESTOGA\PROG8010\Week 8\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\CONESTOGA\PROG8010\Week 8\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+D:\CONESTOGA\PROG8010\Week 8\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+D:\CONESTOGA\PROG8010\Week 8\TicTacToe\TicTacToe\obj\Debug\MainWindow.g.cs
+D:\CONESTOGA\PROG8010\Week 8\TicTacToe\TicTacToe\obj\Debug\App.g.cs
+D:\CONESTOGA\PROG8010\Week 8\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.cache
+D:\CONESTOGA\PROG8010\Week 8\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.lref
+D:\CONESTOGA\PROG8010\Week 8\TicTacToe\TicTacToe\obj\Debug\MainWindow.baml
+D:\CONESTOGA\PROG8010\Week 8\TicTacToe\TicTacToe\obj\Debug\TicTacToe.g.resources
+D:\CONESTOGA\PROG8010\Week 8\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+D:\CONESTOGA\PROG8010\Week 8\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+D:\CONESTOGA\PROG8010\Week 8\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+D:\CONESTOGA\PROG8010\Week 8\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+D:\CONESTOGA\PROG8010\Week 8\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
